@@ -16,7 +16,9 @@ Proposal 1:
         - what do I need to have on my computer to work with geodata
         - ... 
     - examples of data relevant to flooding: contours of lakes, location of bus stops, locations of water level meters, buildings on affected areas, population density 
-    - should it be slides-only, or slides+practical? 
+    - comment on what are the tools, why did we use these tools (datavis, but also QGIS vs programming language)
+    - should it be slides-only, or slides+practical? -> preference to interchange theory and practice to keep the participants entertained  
+    - take a geodata and show a transformation into a numpy array 
 
 1. Slides: present 3-4 geo-services (Geodienste)
     - what are the geo-services, how are they different from locally stored geo-data 
