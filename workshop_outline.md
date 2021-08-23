@@ -6,24 +6,28 @@ Proposal 1:
 ## Workshop Plan 
 
 1. Slides: Present geodata, use example of flooding data (Data - Kanton Bern)
-  - beginner questions: 
-    - what are different data formats (WMS? GeoJSON? ...)
-    - what is GIS
-    - 4 basic geodata types  
-    - ... 
-  - examples of data relevant to flooding: contours of lakes, location of bus stops, locations of water level meters, buildings on affected areas, population density 
-  - should it be slides-only, or slides+practical? 
+    - beginner questions: 
+        - what are different data formats (WMS? GeoJSON? ...)
+        - what is GIS
+        - 4 basic geodata types  
+        - ... 
+    - examples of data relevant to flooding: contours of lakes, location of bus stops, locations of water level meters, buildings on affected areas, population density 
+    - should it be slides-only, or slides+practical? 
+
 1. Slides: present 3-4 geo-services (Geodienste)
-  - what are the geo-services, how are they different from locally stored geo-data 
-  - Z.B. Swisstopo, Geodienste.ch, SBB Transport-Data
-  - Swisstopo: https://www.geo.admin.ch/de/geo-dienstleistungen/geodienste/darstellungsdienste-webmapping-webgis-anwendungen/web-map-services-wms.html
+    - what are the geo-services, how are they different from locally stored geo-data 
+    - Z.B. Swisstopo, Geodienste.ch, SBB Transport-Data
+    - Swisstopo: https://www.geo.admin.ch/de/geo-dienstleistungen/geodienste/darstellungsdienste-webmapping-webgis-anwendungen/web-map-services-wms.html
+
 1. Slides/Demo: how to integrate geoservices on maps 
+
 1. Practical: 
-  - participants pick a dataset that interests them  
-  - integrate the dataset/geoservice data on a map
-  - spatial analysis: cross-section point and polygon 
+    - participants pick a dataset that interests them  
+    - integrate the dataset/geoservice data on a map
+    - spatial analysis: cross-section point and polygon 
+
 1. Output: discussion round 
-  - participants present which data they used, what they have achieved  
+    - participants present which data they used, what they have achieved  
 
 
 ## Flooding in Kanton Bern - Data sources 
