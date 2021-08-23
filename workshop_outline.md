@@ -10,6 +10,7 @@ Proposal 1:
         - what are different data formats (WMS? GeoJSON? ...)
         - what is GIS
         - 4 basic geodata types  
+        - what do I need to have on my computer to work with geodata
         - ... 
     - examples of data relevant to flooding: contours of lakes, location of bus stops, locations of water level meters, buildings on affected areas, population density 
     - should it be slides-only, or slides+practical? 
