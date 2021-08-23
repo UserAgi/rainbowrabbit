@@ -9,7 +9,10 @@ Proposal 1:
     - beginner questions: 
         - what are different data formats (WMS? GeoJSON? ...)
         - what is GIS
-        - 4 basic geodata types  
+        - 4 basic geodata types 
+            - map: just pictures, they are performant, but not very useful to analyse, to go deep  
+            - point: e.g. a train station
+            - ... 
         - what do I need to have on my computer to work with geodata
         - ... 
     - examples of data relevant to flooding: contours of lakes, location of bus stops, locations of water level meters, buildings on affected areas, population density 
@@ -18,7 +21,8 @@ Proposal 1:
 1. Slides: present 3-4 geo-services (Geodienste)
     - what are the geo-services, how are they different from locally stored geo-data 
     - Z.B. Swisstopo, Geodienste.ch, SBB Transport-Data
-    - Swisstopo: https://www.geo.admin.ch/de/geo-dienstleistungen/geodienste/darstellungsdienste-webmapping-webgis-anwendungen/web-map-services-wms.html
+    - Swisstopo: https://www.geo.admin.ch/de/geo-dienstleistungen/geodienste/darstellungsdienste-webmapping-webgis-anwendungen/web-map-services-wms.html 
+    - have an example for geoservice, but also an example of a local data 
 
 1. Slides/Demo: how to integrate geoservices on maps 
 
@@ -29,6 +33,14 @@ Proposal 1:
 
 1. Output: discussion round 
     - participants present which data they used, what they have achieved  
+
+
+
+Snippets: example - take a code snippet and change something to change the layer 
+
+Analytics: prepare data in a small extent, snippets analysis (e.g. how many bus stops in a flooding area), they can then add more layers, they can do a small analysis, add another layer from this region 
+
+ML: extra, as a homework 
 
 
 ## Flooding in Kanton Bern - Data sources 
