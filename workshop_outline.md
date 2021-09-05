@@ -20,7 +20,7 @@
     - Important GIS Objects
         - vector data 
             - Point data → bus stop layer with annotations
-(link1)[https://geolion.zh.ch/geodatensatz/883]
+[link1](https://geolion.zh.ch/geodatensatz/883)
 WFS: https://geolion.zh.ch/geodatenservice/1055
         - raster data 
 
