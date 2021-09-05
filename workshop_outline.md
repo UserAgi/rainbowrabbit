@@ -19,10 +19,17 @@
         - map is a set of layers 
     - Important GIS Objects
         - vector data 
-            - Point data → bus stop layer with annotations
-[link1](https://geolion.zh.ch/geodatensatz/883)
-WFS: https://geolion.zh.ch/geodatenservice/1055
+            - Point data -> bus stop layer with annotations [data](https://geolion.zh.ch/geodatensatz/883) [WFS](https://geolion.zh.ch/geodatenservice/1055)
+            - Line data -> road network layer [data](https://geolion.zh.ch/geodatensatz/3177) [WFS](https://geolion.zh.ch/geodatenservice/1120)
+            - Polygon data -> lake layer with annotated lake names **???**
         - raster data 
+            - Raster data -> height model **???**
+    
+Vector data contains additional information in an attribute table (e.g. a lake polygon layer contains a name, an area and more information about every lake --> <span style="background-color:yellow;">attribute table to the lake layer</span>
+In order to display a layer, a symbology / style (e.g. color code) is used → height model with color ramp → road network layer with and without symbology
+
+    - GIS data types 
+
 
     - beginner questions: 
         - what are different data formats (WMS? GeoJSON? ...)
