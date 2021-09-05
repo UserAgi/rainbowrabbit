@@ -1,11 +1,29 @@
 # WTT Workshop 
 
-Proposal 1: 
-
-
 ## Workshop Plan 
 
-1. Slides: Present geodata, use example of flooding data (Data - Kanton Bern)
+1. Intro (very short) - who we are 
+    - intro WiMLDS 
+    - intro Litix 
+    - intro Databooster / DIA 
+
+
+
+
+
+1. Theory: intro to geodata 
+    - What is geodata: 
+        - data with a geographical reference. Any information refers to some location in the real world. 
+        - GIS (Geographical Information System) is used as a generic term for geodata related software.
+        - geodata is stored in layers 
+        - map is a set of layers 
+    - Important GIS Objects
+        - vector data 
+            - Point data → bus stop layer with annotations
+(link1)[https://geolion.zh.ch/geodatensatz/883]
+WFS: https://geolion.zh.ch/geodatenservice/1055
+        - raster data 
+
     - beginner questions: 
         - what are different data formats (WMS? GeoJSON? ...)
         - what is GIS
