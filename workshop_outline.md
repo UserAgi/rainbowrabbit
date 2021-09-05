@@ -25,7 +25,11 @@
         - raster data 
             - Raster data -> height model **???**
     
-Vector data contains additional information in an attribute table (e.g. a lake polygon layer contains a name, an area and more information about every lake --> ```diff ! attribute table to the lake layer```
+Vector data contains additional information in an attribute table (e.g. a lake polygon layer contains a name, an area and more information about every lake --> 
+```diff 
+! attribute table to the lake layer
+```
+
 In order to display a layer, a symbology / style (e.g. color code) is used → height model with color ramp → road network layer with and without symbology
 
     - GIS data types 
