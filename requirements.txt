@@ -1,3 +1,4 @@
 jupyter_contrib_nbextensions
 ipyleaflet
 geopandas
+owslib
